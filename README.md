@@ -46,5 +46,9 @@
 - Implementation of equal binning, tweaking this parameter for optimised results.
 - Finally, using K-means clustering onto the dataset. 
 
+### [Data used in this investigation](https://github.com/robertmash/DataMining_Project/blob/main/Exasens.csv)
+
+
+
 
 
