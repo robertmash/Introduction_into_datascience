@@ -1,4 +1,4 @@
-# [Project 1:](https://github.com/robertmash/intro_to_data_science/blob/main/cw.Rmd)
+# [Project 1:](https://github.com/robertmash/intro_to_data_science)
 - I use data from Nasa's website and GOV.uk for this investigation. The main purpose of this initial study is to familiarise myself with data wrangling and visulisation, within R.
 - Data can be found here: 
 - https://climate.nasa.gov/vital-signs/global-temperature/
