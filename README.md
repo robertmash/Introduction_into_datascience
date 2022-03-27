@@ -38,7 +38,7 @@
 - Highlighting underperfoming students i.e. scored < 60 in all tests.
 - Addittionally, I create a GUI section of the programme so when the user inputs a student ID, they their overall performance back to them. 
 
-# [Project 3: Data Mining Project](https://github.com/robertmash/DataMining_Project)
+# [Project 4: Data Mining Project](https://github.com/robertmash/DataMining_Project)
 - Using Weka to produce a report focusing on the implementation of machine learning methods
 - I firstly pre-process the dataset. 
 - Initalise linear regression and relevant attribute evalutors (OneRule, Relief F)
