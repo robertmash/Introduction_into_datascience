@@ -19,7 +19,7 @@
 - Using linear, multi-linear and logistic regression methods. 
 - Plotting confidence intervals & checking for normality. 
 - Plotting ROC, interpretting the AUC. Graphing my findings, showing both sensitivity and specificity values. 
-- Creating a GLM for the 'divisionWinners' of our baseball dataset. This is then split into a test and training set, to graph the ROC and a confusion matrix.
+- Creating a GLM for the 'divisionWinners' of our baseball dataset. This is then split into a test and training set, to graph the ROC and a confusion matrix comparing the full and reduced model. 
 
 ## Findings: 
 
