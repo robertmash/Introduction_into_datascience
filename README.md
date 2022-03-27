@@ -1,5 +1,10 @@
 # [Project 1:](https://github.com/robertmash/intro_to_data_science)
-- I use data from Nasa's website and GOV.uk for this investigation. The main purpose of this initial study is to familiarise myself with data wrangling and visulisation, within R.
+- Focusing on cleaning and visulisation using R. 
+- used packages: Tidyvserse, ggplot2, janitor, here, and lubridate.
+- Uses data from Nasa and GOV.uk, I've linked these below. 
+- Visualise trends and statistics based of climate change, and rates of stops and searches throughout my investigation.
+- I find that In 2017, we can denote that black people were up to 8 times more likely to be stopped in comparison to white people. This is similar with the Asian population who are increasingly more likely to be stopped over white individuals. I didn't include the "Other" variable as it was missing some data, which wouldnt add any impact to the conclusion. 
+
 - Data can be found here: 
 - https://climate.nasa.gov/vital-signs/global-temperature/
 - https://climate.nasa.gov/vital-signs/arctic-sea-ice/
