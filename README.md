@@ -1,5 +1,4 @@
-# [Project 1:](https://github.com/robertmash/intro_to_data_science)
-- Focusing on cleaning and visulisation using R. 
+# [Project 1: Focusing on cleaning and visulisation using R](https://github.com/robertmash/intro_to_data_science)
 - used packages: Tidyvserse, ggplot2, janitor, here, and lubridate.
 - Uses data from Nasa and GOV.uk, I've linked these below. 
 - Visualise trends and statistics based of climate change, and rates of stops and searches throughout my investigation.
@@ -12,8 +11,7 @@
 
 ### [Data used in this investigation](https://github.com/robertmash/intro_to_data_science/tree/main/data)
 
-# [Project 2:](https://github.com/robertmash/stats_project)
-- Statistical Methods and Data Analysis
+# [Project 2: Statistical Methods and Data Analysis](https://github.com/robertmash/stats_project)
 - Implementing statistical analysis on a multitude of datasets to derive statistically significant results
 - Using linear, multi-linear and logistic regression methods. 
 - Plotting confidence intervals & checking for normality. 
