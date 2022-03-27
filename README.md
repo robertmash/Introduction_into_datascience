@@ -7,10 +7,10 @@
 
 ##Graphs:
 
-(https://github.com/robertmash/Projects/blob/main/images/co2_improved.png)
-(https://github.com/robertmash/Projects/blob/main/images/nasa_co2_over_time.png)
-(https://github.com/robertmash/Projects/blob/main/images/sea_ice_melting_matrix.png)
-(https://github.com/robertmash/Projects/blob/main/images/stop_search_rates.png)
+![](https://github.com/robertmash/Projects/blob/main/images/co2_improved.png)
+![](https://github.com/robertmash/Projects/blob/main/images/nasa_co2_over_time.png)
+![](https://github.com/robertmash/Projects/blob/main/images/sea_ice_melting_matrix.png)
+![](https://github.com/robertmash/Projects/blob/main/images/stop_search_rates.png)
 
 ### Data can be found here: 
 - https://climate.nasa.gov/vital-signs/global-temperature/
