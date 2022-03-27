@@ -46,7 +46,6 @@
 - Implementation of equal binning, tweaking this parameter for optimised results.
 - Finally, using K-means clustering onto the dataset. 
 
-
-![](https://github.com/robertmash/robertmash_portfolio/blob/main/images/statistical_graphs.png)
+![](https://github.com/robertmash/RobertMash_Portfolio/blob/main/images/attribute_Evals.png)
 
 
