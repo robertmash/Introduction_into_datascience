@@ -10,20 +10,13 @@
 ![](https://github.com/robertmash/Projects/blob/main/images/visualisations.png)
 
 
-### Data can be found here: 
-- https://climate.nasa.gov/vital-signs/global-temperature/
-- https://climate.nasa.gov/vital-signs/arctic-sea-ice/
-- https://climate.nasa.gov/vital-signs/sea-level/
-- https://climate.nasa.gov/vital-signs/carbon-dioxide/
-- https://www.ncei.noaa.gov/pub/data/paleo/icecore/antarctica/epica_domec/edc-co2-2008.txt (based on https://doi.org/10.1038/nature06949)
-- https://nsidc.org/arcticseaicenews/sea-ice-tools/
-- https://www.ethnicity-facts-figures.service.gov.uk/crime-justice-and-the-law/policing/stop-and-search/latest
+### [Data used in this investigation](https://github.com/robertmash/intro_to_data_science/tree/main/data)
 
-
-# [Project 2:]
+# [Project 2:](https://github.com/robertmash/stats_project)
 - Statistical Methods and Data Analysis
 - Implementing statistical analysis on a multitude of datasets to derive statistically significant results
 - Using linear, multi-linear and logistic regression methods. 
 - Plotting confidence intervals & checking for normality. 
 - Plotting ROC, interpretting the AUC. Graphing my findings, showing both sensitivity and specificity values. 
+
 
