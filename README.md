@@ -18,7 +18,7 @@
 - Plotting ROC, interpretting the AUC. Graphing my findings, showing both sensitivity and specificity values. 
 
 
-## Statistical visualisations (ROC, log10 relationships, Residual vs Leverage and Specificity & Sensitivity):
+## Statistical visualisations (ROC, log10 relationships, Residual vs Leverage and Specificity & Sensitivity, Confidence Intervals):
 
 ![](https://github.com/robertmash/robertmash_portfolio/blob/main/images/statistical_graphs.png)
 
