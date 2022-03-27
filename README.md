@@ -1,6 +1,3 @@
-# robertmash_portfolio 
-- my first data science project
-
 # Project 1: 
 - I use data from Nasa's website and GOV.uk for this investigation. The main purpose of this initial study is to familiarise myself with data wrangling and visulisation, within R.
 - Data can be found here: 
