@@ -27,4 +27,14 @@
 
 ### [Data used in this investigation](https://github.com/robertmash/stats_project/tree/main/data)
 
+# [Project 3: Student Database Project](https://github.com/robertmash/StudentDatabase_Project/blob/main/programming%20for%20ds/CW1/CW1.ipynb)
+- Project is split into two sections. 
+- First section focusing is on data-preprocessing, creating functions to clean and ready the data to be worked on. This involves:
+- Standardising, normalising, removing duplicates and creating an SQL database for these results. 
+
+## [Section 2:](https://github.com/robertmash/StudentDatabase_Project/tree/main/programming%20for%20ds/cw2)
+- Second part of the project involves using the SQL database to create export the database and creating subsets for the students.
+- This involves identifying which students are hardworking i.e. scored > 60 in all tests
+- Highlighting underperfoming students i.e. scored < 60 in all tests.
+- Addittionally, I create a GUI section of the programme so when the user inputs a student ID, they their overall performance back to them. 
 
