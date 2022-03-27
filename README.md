@@ -20,7 +20,7 @@
 
 ## Statistical visualisations (ROC, log10 relationships, Residual vs Leverage and Specificity & Sensitivity):
 
-![](https://github.com/robertmash/robertmash_portfolio/blob/main/images/stats_visualisations.png)
+![](https://github.com/robertmash/robertmash_portfolio/blob/main/images/statistical_graphs.png)
 
 ### [Data used in this investigation](https://github.com/robertmash/stats_project/tree/main/data)
 
