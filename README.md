@@ -27,9 +27,9 @@
 
 ### [Data used in this investigation](https://github.com/robertmash/stats_project/tree/main/data)
 
-# [Project 3: Student Database Project]
+# Project 3: Student Database Project
 
-##[Section 1:](https://github.com/robertmash/StudentDatabase_Project/blob/main/programming%20for%20ds/CW1/CW1.ipynb)
+## [Section 1:](https://github.com/robertmash/StudentDatabase_Project/blob/main/programming%20for%20ds/CW1/CW1.ipynb)
 - Project is split into two sections. 
 - First section focusing is on data-preprocessing, creating functions to clean and ready the data to be worked on. This involves:
 - Standardising, normalising, removing duplicates and creating an SQL database for these results. 
