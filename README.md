@@ -11,7 +11,7 @@
 
 ### [Data used in this investigation](https://github.com/robertmash/intro_to_data_science/tree/main/data)
 
-# [Project 2: Statistical Methods and Data Analysis](https://github.com/robertmash/stats_project)
+# [Project 2: Statistical Methods and Data Analysis](https://github.com/robertmash/Statistical_Analysis_Project/blob/main/cw_stats.Rmd)
 - Firstly cleaning the datasets and collecting summary stats about each variable. 
 - We look at 3 main datasets, car data, comicbook characters and premier league players.
 - Also look at 'Salaries' dataset within R, which illistrates the 
