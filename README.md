@@ -1,8 +1,8 @@
 # [Project 1: Focusing on cleaning and visulisation using R](https://github.com/robertmash/intro_to_data_science)
-- used packages: Tidyvserse, ggplot2, janitor, here, and lubridate.
+- Used packages: Tidyvserse, ggplot2, janitor, here, and lubridate.
 - Uses data from Nasa and GOV.uk, I've linked these below. 
 - Visualise trends and statistics based of climate change, and rates of stops and searches throughout my investigation.
-- I find that In 2017, we can denote that black people were up to 8 times more likely to be stopped in comparison to white people. This is similar with the Asian population who are increasingly more likely to be stopped over white individuals. I didn't include the "Other" variable as it was missing some data, which wouldnt add any impact to the conclusion. 
+- I find that In 2017, that black people were up to 8 times more likely to be stopped in comparison to white people. This is similar with the Asian population who are increasingly more likely to be stopped over white individuals. I didn't include the "Other" variable as it was missing some data, which wouldnt add any impact to the conclusion. 
 
 ## Visualisations after cleaning:
 
@@ -38,7 +38,7 @@
 - Second part of the project involves using the SQL database to create export the database and creating subsets for the students.
 - This involves identifying which students are hardworking i.e. scored > 60 in all tests
 - Highlighting underperfoming students i.e. scored < 60 in all tests.
-- Addittionally, I create a GUI section of the programme so when the user inputs a student ID, they their overall performance back to them. 
+- Addittionally, I create a GUI section of the programme so when the user inputs a student ID, they their overall performance is given back to them. 
 
 ### [Data used in this investigation](https://github.com/robertmash/StudentDatabase_Project/tree/main/programming%20for%20ds/cw2)
 
