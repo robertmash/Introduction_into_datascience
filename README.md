@@ -38,7 +38,7 @@
 - Second part of the project involves using the SQL database to create export the database and creating subsets for the students.
 - This involves identifying which students are hardworking i.e. scored > 60 in all tests
 - Highlighting underperfoming students i.e. scored < 60 in all tests.
-- Addittionally, I create a GUI section of the programme so when the user inputs a student ID, they their overall performance is given back to them. 
+- Addittionally, I create a GUI section of the programme so when the user inputs a student ID, the specific results are given back to the user.
 
 ### [Data used in this investigation](https://github.com/robertmash/StudentDatabase_Project/tree/main/programming%20for%20ds/cw2)
 
