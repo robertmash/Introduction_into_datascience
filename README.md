@@ -53,7 +53,7 @@
 ### [Data used in this investigation](https://github.com/robertmash/DataMining_Project/blob/main/Exasens.csv)
 
 
-# [Project 5: Machine Learning Project](https://github.com/robertmash/DataMining_Project)
+# [Project 5: Machine Learning Project](https://github.com/robertmash/MachineLearning_Project/blob/main/cw%20files%20.ipynb)
 - Explored supervised machine learning methods, tweaking parameters and using stacking to increase predictability.
 - I will be applying support machine vectors (SMV), decision trees and k-nearest neighbour algorithms to train a dataset to precisely identify the main contributors towards maternal mortality risk within Bangladesh. After modelling I will be using feature selection, to reduce the number of attributes contributing towards the model, helping to improve the performance of the model. Our results found that stacking of both SVM and decision trees gave the most accurate results
 
