@@ -69,7 +69,8 @@
 
 In this study, I will be utilising 7 main variables to evaluate and achieve my objectives. The maternal mortality rate details the rate of deaths per 100,000 of live births that take place within a country. This will be our main metric of our evaluation, comparing the rate of fatalities between countries will enable me to accurately underpin the quality of medical technologies that are within specific country/region. Additionally, I will be utilising evaluative statistics that are specific to the individual. These include whether the birth was completed by a caesarean, whether the pregnant women had sufficient iron levels throughout the pregnancy and if the women has been subject to female genital mutilation. 
 
-
+![]https://github.com/robertmash/RobertMash_Portfolio/blob/main/images/tableau1.png 
+![]https://github.com/robertmash/RobertMash_Portfolio/blob/main/images/tableau2.png
 
 
 
