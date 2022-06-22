@@ -73,8 +73,7 @@ In this study, I will be utilising 7 main variables to evaluate and achieve my o
 
 ![](https://github.com/robertmash/RobertMash_Portfolio/blob/main/images/tableau1.png)
 ![](https://github.com/robertmash/RobertMash_Portfolio/blob/main/images/tableau.png)
-![](https://github.com/robertmash/RobertMash_Portfolio/blob/main/images/tableau3.png)
-![](https://github.com/robertmash/RobertMash_Portfolio/blob/main/images/tableau4.png)
+
 
 
 
