@@ -65,7 +65,7 @@
 ![](https://github.com/robertmash/RobertMash_Portfolio/blob/main/images/decisiontrees.png)
 
 
-# [Project 6: Data Visualisations (Tableau)](https://github.com/robertmash/Tableau_visualisations/blob/main/README.md)
+# [Project 6: Data Visualisations Project (Tableau)](https://github.com/robertmash/Tableau_visualisations/blob/main/README.md)
 
 - In this study, I will be utilising 7 main variables to evaluate and achieve my objectives. The maternal mortality rate details the rate of deaths per 100,000 of live births that take place within a country. This will be our main metric of our evaluation, comparing the rate of fatalities between countries will enable me to accurately underpin the quality of medical technologies that are within specific country/region.
 
